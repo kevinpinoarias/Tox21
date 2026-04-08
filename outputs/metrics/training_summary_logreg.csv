@@ -1,0 +1,13 @@
+assay_name,was_trained,n_train_samples,n_positive,n_negative,skip_reason
+NR-AR,True,5817,245,5572,
+NR-AR-LBD,True,5417,189,5228,
+NR-AhR,True,5237,606,4631,
+NR-Aromatase,True,4654,242,4412,
+NR-ER,True,4957,658,4299,
+NR-ER-LBD,True,5572,289,5283,
+NR-PPAR-gamma,True,5175,154,5021,
+SR-ARE,True,4651,759,3892,
+SR-ATAD5,True,5659,211,5448,
+SR-HSE,True,5160,294,4866,
+SR-MMP,True,4666,755,3911,
+SR-p53,True,5410,335,5075,

@@ -1,0 +1,2 @@
+n_total,n_train,n_test,test_size,random_state
+7823,6258,1565,0.2,42

@@ -1,0 +1,7 @@
+table_name,path
+prediction_table,outputs\error_analysis\prediction_table.csv
+misclassified_rows,outputs\error_analysis\misclassified_rows.csv
+top_confident_errors,outputs\error_analysis\top_confident_errors.csv
+top_probability_errors,outputs\error_analysis\top_probability_errors.csv
+error_summary_by_assay,outputs\error_analysis\error_summary_by_assay.csv
+error_type_summary,outputs\error_analysis\error_type_summary.csv
